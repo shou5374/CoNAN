@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+checkpoints/*
+corpus/*
+lightning_logs/
+checkpoints/
+tmp_*/
+tmp_*
+/*.pkl
+/*.report
